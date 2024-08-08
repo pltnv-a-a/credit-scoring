@@ -16,19 +16,19 @@ Credit Scoring project it's a presentation of mashine learning solution as a web
 
 ## Metrics
 
--Model accuracy is 0.9310905129436094
--Model recall is 0.5925925925925926
+- Model accuracy is 0.9310905129436094
+- Model recall is 0.5925925925925926
 
 ## How to Run
 
 ### Shell
 
-'''shell
+```shell
 $ python -m venv venv
 $ source venv/bin/activate
 $ pip install -r requirements.txt
 $ streamlit run app.py
-'''
+```
 
 ### Streamlit Deployment
 
