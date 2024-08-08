@@ -1,0 +1,10 @@
+,weights,features
+7,-9.02100169235803,NumberOfTime60-89DaysPastDueNotWorse
+1,-2.303371445656641,age
+4,-1.438358579682063,MonthlyIncome
+3,-0.469485038200169,DebtRatio
+0,-0.4413641987158437,RevolvingUtilizationOfUnsecuredLines
+5,-0.06662229556656796,NumberOfOpenCreditLinesAndLoans
+8,1.2383650052282913,NumberOfDependents
+6,2.237252846416188,NumberOfTimes90DaysLate
+2,10.847394848905985,NumberOfTime30-59DaysPastDueNotWorse
